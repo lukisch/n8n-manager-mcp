@@ -6,3 +6,7 @@ desktop.ini
 .vscode/
 .idea/
 *.tgz
+
+# Internal planning files
+PLAN.txt
+PLAN_*.txt
