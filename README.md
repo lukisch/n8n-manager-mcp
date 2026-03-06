@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="ellmos-logo.jpg" alt="n8n Manager logo" width="400">
+</p>
+
 # n8n Manager MCP Server
+
+*Part of the [ellmos-ai](https://github.com/ellmos-ai) family.*
 
 [![npm](https://img.shields.io/npm/v/n8n-manager-mcp.svg)](https://www.npmjs.com/package/n8n-manager-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
