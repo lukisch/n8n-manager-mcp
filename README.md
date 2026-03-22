@@ -1,4 +1,4 @@
-<img src="n8n_logo.jpg" alt="n8n Manager banner" width="350">
+<img src="n8n_logo.jpg" alt="n8n Manager MCP Server banner" width="700">
 
 # n8n Manager MCP Server
 
