@@ -89,7 +89,7 @@ Server connections are stored in `~/.n8n-manager-mcp/servers.json`.
 
 ## Related
 
-- [n8n-workflow-manager](https://github.com/lukisch/n8n-workflow-manager) -- Full web UI + REST API for n8n workflow management (Python)
+- [n8n-workflow-manager](https://github.com/ellmos-ai/n8n-workflow-manager) -- Full web UI + REST API for n8n workflow management (Python)
 - [n8n](https://n8n.io/) -- The workflow automation platform
 
 ## License
